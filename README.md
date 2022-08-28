@@ -5,7 +5,7 @@ Using Python and Regression Model Machine Learning to predict BTC next day closi
 As a capstone project for the Data Science Course from 
 https://verticalinstitute.com/data-science/
 
-The course covers the following the structured and practical use of:
+The course covers the structured and practical use of the Data Science Lifecycle, utilising:
 - NumPy & Pandas
 - Data Cleaning, Visualization & Exploratory Data Analysis
 - Linear Regression and Feature Scaling
