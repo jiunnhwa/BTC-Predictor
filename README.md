@@ -1,4 +1,4 @@
-# DataScience_MachineLearning_Regression_Model_PricePredictor
+# Data Science Machine Learning Regression Model Price Predictor
 Using Python and Regression Model Machine Learning to predict BTC next day closing price.
 
 
